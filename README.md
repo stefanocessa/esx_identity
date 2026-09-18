@@ -2,7 +2,7 @@
 
 A Core Resource that Allows the player to Pick their characters, Name, Gender, Height and Date-of-birth.
 
-![Preview](./preview.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44c02b20-f074-45fc-86f1-bab73596cacf" />
 
 # Infomation
 
